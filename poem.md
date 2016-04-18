@@ -1,8 +1,8 @@
-    Parting.
-    By Charlotte Bronte
+    # Parting.
+    ## _By Charlotte Bronte_
 
 
-    There's no use in weeping,
+    There's no use in _weeping_,
     Though we are condemned to part:
     There's such a thing as keeping
     A remembrance in one's heart:
@@ -40,4 +40,7 @@
     So there's no use in weeping,
     Bear a cheerful spirit still;
     Never doubt that Fate is keeping
-    Future good for present ill!
+    **Future good for present ill!**
+    
+    Source: http://www.public-domain-poetry.com/charlotte-bronte/parting-9566 
+    :two_hearts:
